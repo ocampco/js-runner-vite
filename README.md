@@ -12,6 +12,9 @@ Simple js runner using [vite](https://vitejs.dev/), configured for:
 $ nvm use
 $ npm i
 
+# Run TS file (./src/main.ts) in watch mode
+$ npm run dev
+
 # Run Vitest tests
 $ npm run test
 
